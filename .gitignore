@@ -1,0 +1,5 @@
+*.o
+*.img
+journal
+# Don't commit large binaries unless instructed
+# vsfs.img
